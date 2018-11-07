@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get "/", to: 'welcomes#index'
+  get "/", to: 'welcome#index'
 end
